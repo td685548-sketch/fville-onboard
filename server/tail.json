@@ -1,0 +1,2751 @@
+{
+    "wallTime": 2,
+    "cpuTime": 1,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692509051,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692509083,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 1,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692514716,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692514743,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692516173,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692516373,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692516955,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692517167,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692517376,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692517578,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692517788,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692517999,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692520054,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692521121,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692522170,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692522998,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692524040,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692525064,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692527855,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692528064,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692528270,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692529108,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692530182,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692531016,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692532076,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692533137,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692534169,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692535201,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692536035,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692537076,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692538123,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692539156,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692540186,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692541009,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692542048,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692543068,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692544091,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692545144,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692546174,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692547001,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692548037,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692550146,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692550352,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692552047,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692553102,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692554162,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692555024,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692556044,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692557354,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692558183,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692559208,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692560040,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692561064,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692563922,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692564132,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692564337,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692565155,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692566322,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692567228,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692568066,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692569102,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692570130,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692571160,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692572177,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692573005,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692574044,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692575077,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692576120,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692577149,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692578166,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692579180,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692580009,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692581049,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692583693,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692583896,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692584098,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692585127,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692587061,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692587267,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 1,
+    "cpuTime": 1,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692589010,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692589051,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 1,
+    "cpuTime": 1,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692596566,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692598947,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692601872,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692604998,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692612721,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692616122,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 1,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692622183,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692626345,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692629433,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692630404,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692633125,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692637257,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692639880,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692639891,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692642438,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692642639,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692642847,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692643051,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692643261,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692643471,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692643683,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692644101,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692652187,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692653784,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692660669,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692664842,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692665951,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692666682,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692667153,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692672083,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692675351,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692682247,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692685572,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692687644,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692688039,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692691443,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692695238,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692695785,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692696219,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692699445,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692702515,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692706885,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692710578,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+{
+    "wallTime": 0,
+    "cpuTime": 0,
+    "truncated": false,
+    "executionModel": "durableObject",
+    "outcome": "ok",
+    "durableObjectId": "2ac311be7af3a0d519435ceae02d7488a775de7c409baf7011f462f0912e04ec",
+    "scriptVersion": {
+        "id": "e7a013c0-82b6-4613-825a-74c93f299103"
+    },
+    "entrypoint": "FVilleRoom",
+    "scriptName": "fville-net",
+    "diagnosticsChannelEvents": [],
+    "exceptions": [],
+    "logs": [],
+    "eventTimestamp": 1791692710582,
+    "event": {
+        "getWebSocketEvent": {
+            "webSocketEventType": "message"
+        }
+    }
+}
+Terminate batch job (Y/N)? 
